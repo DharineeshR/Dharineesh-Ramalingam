@@ -4,11 +4,11 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=230&color=0:080C24,25:123C69,60:0077B6,100:00B4D8&text=Dharineesh%20Ramalingam&fontSize=44&fontColor=FFFFFF&fontAlignY=40&desc=DATA%20ANALYTICS%20%7C%20DATA%20SCIENCE&descSize=20&descColor=E0F7FF&descAlignY=63" alt="Dharineesh Ramalingam - Data Analytics and Data Science"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=230&color=0:080C24,25:123C69,60:0077B6,100:00B4D8&text=Dharineesh%20Ramalingam&fontSize=44&fontColor=FFFFFF&fontAlignY=40&desc=DATA%20ANALYTICS%20%7C%20DATA%20SCIENCE&descSize=20&descColor=E0F7FF&descAlignY=63" alt="Dharineesh Ramalingam Profile Banner"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=00B4D8&center=true&vCenter=true&width=650&lines=Aspiring+Data+Analyst;Aspiring+Data+Scientist;Python+%7C+SQL+%7C+Machine+Learning;Transforming+Data+into+Insights" alt="Professional tagline"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=00B4D8&center=true&vCenter=true&width=650&lines=Aspiring+Data+Analyst;Aspiring+Data+Scientist;Python+%7C+SQL+%7C+Machine+Learning;Transforming+Data+into+Insights" alt="Professional Tagline"/>
 
 <br/><br/>
 
@@ -38,9 +38,9 @@
 
 ## 👋 About Me
 
-I'm **Dharineesh Ramalingam**, a Computer Science and Engineering graduate interested in Data Analytics, Data Science, and Machine Learning.
+Hello! I'm **Dharineesh Ramalingam**, a Computer Science and Engineering graduate interested in Data Analytics, Data Science, and Machine Learning.
 
-I enjoy exploring datasets, identifying patterns, and applying analytical techniques to solve real-world problems.
+I enjoy exploring datasets, identifying meaningful patterns, and applying analytical techniques to solve real-world problems.
 
 - 🎓 **Education:** BE in Computer Science and Engineering
 - 📊 **Interests:** Data Analytics, Data Science, and Business Intelligence
@@ -53,13 +53,13 @@ I enjoy exploring datasets, identifying patterns, and applying analytical techni
 <div align="center">
 
 <a href="mailto:dharineesh36abi@gmail.com?subject=Professional%20Enquiry">
-  <img src="https://img.shields.io/badge/Contact%20Me-dharineesh36abi%40gmail.com-0A66C2?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact me by email"/>
+  <img src="https://img.shields.io/badge/CONTACT%20ME-dharineesh36abi%40gmail.com-0A66C2?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact Me"/>
 </a>
 
 <br/><br/>
 
 <a href="https://github.com/DharineeshR/DharineeshR/blob/main/Dharineesh_R_Resume.pdf">
-  <img src="https://img.shields.io/badge/📄%20OPEN%20MY%20RESUME-View%20PDF-DC2626?style=for-the-badge" alt="Open my resume"/>
+  <img src="https://img.shields.io/badge/📄%20OPEN%20MY%20RESUME-View%20PDF-DC2626?style=for-the-badge" alt="Open My Resume"/>
 </a>
 
 </div>
@@ -125,15 +125,15 @@ I enjoy exploring datasets, identifying patterns, and applying analytical techni
 
 ### 👥 Employee Retention Prediction
 
-Developed a machine learning classification model to predict employee attrition using approximately 74,610 records.
+Developed a machine learning classification model to predict employee attrition using approximately **74,610 records**.
 
-**Highlights**
+**Key Highlights**
 - Data preprocessing and statistical analysis
 - Recursive Feature Elimination (RFE)
 - Identification of relevant predictors
 - ROC-AUC score: **0.8261**
 
-**Technologies**
+**Tech Stack**
 
 `Python` `Pandas` `NumPy` `Scikit-learn` `Statsmodels`
 
@@ -144,15 +144,89 @@ Developed a machine learning classification model to predict employee attrition 
 
 Built a Linear Regression model to estimate food delivery times through exploratory data analysis, feature engineering, and outlier treatment.
 
-**Highlights**
+**Key Highlights**
 - Exploratory Data Analysis
 - Feature engineering
 - Outlier treatment
 - R² score: **approximately 0.859**
 
-**Technologies**
+**Tech Stack**
 
 `Python` `Pandas` `NumPy` `Scikit-learn` `Matplotlib` `Seaborn`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🌾 Farmers Insurance Data Analysis Using SQL
+
+Analyzed agricultural insurance data to explore insurance coverage, premiums, insured amounts, and regional differences.
+
+**Key Highlights**
+- SQL joins and aggregations
+- Subqueries and window functions
+- District-level comparisons
+- Exploration of agricultural insurance patterns
+
+**Tech Stack**
+
+`SQL` `Data Analysis` `Window Functions`
+
+</td>
+<td width="50%" valign="top">
+
+### 🚕 NYC Taxi Trip Data Analysis
+
+Performed exploratory analysis of taxi trip data to investigate demand, revenue trends, passenger behavior, and geographical patterns.
+
+**Key Highlights**
+- Data cleaning and preprocessing
+- Trip and revenue analysis
+- Passenger and payment trends
+- Geographical data exploration
+
+**Tech Stack**
+
+`Python` `Pandas` `EDA` `Data Visualization`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 📊 Customer Behavior Analysis Using Apache Spark
+
+Analyzed e-commerce customer behavior to explore purchasing patterns, customer segments, product performance, and sales trends.
+
+**Key Highlights**
+- Data cleaning and preprocessing
+- Exploratory data analysis
+- RFM customer segmentation
+- Purchasing and sales trend analysis
+
+**Tech Stack**
+
+`Python` `Apache Spark` `PySpark` `Data Analysis`
+
+</td>
+<td width="50%" valign="top">
+
+### 🧬 Eye Cancer Detection Using CNN
+
+Explored convolutional neural networks for image classification and medical image analysis.
+
+**Key Highlights**
+- Image preprocessing
+- CNN-based image classification
+- Deep learning techniques
+- Computer vision fundamentals
+
+**Tech Stack**
+
+`Python` `CNN` `Deep Learning` `Computer Vision`
 
 </td>
 </tr>
@@ -160,19 +234,32 @@ Built a Linear Regression model to estimate food delivery times through explorat
 
 ---
 
+<!-- ===================================================== -->
+<!--                       EDUCATION                       -->
+<!-- ===================================================== -->
+
 ## 🎓 Education
 
-**Bachelor of Engineering — Computer Science and Engineering**  
-Vel Tech Multi Tech | November 2021 – April 2025  
-CGPA: 6.98/10
+### Bachelor of Engineering — Computer Science and Engineering
 
-**Higher Secondary Certificate (HSC)**  
-Jawahar Matric School | 81%
+**Vel Tech Multi Tech**  
+November 2021 – April 2025
 
-**Secondary School Leaving Certificate (SSLC)**  
-Jawahar Matric School | 75%
+**CGPA:** 6.98/10
+
+### Higher Secondary Certificate (HSC)
+
+**Jawahar Matric School** — 81%
+
+### Secondary School Leaving Certificate (SSLC)
+
+**Jawahar Matric School** — 75%
 
 ---
+
+<!-- ===================================================== -->
+<!--                     CERTIFICATION                     -->
+<!-- ===================================================== -->
 
 ## 📜 Certification
 
@@ -180,14 +267,19 @@ Jawahar Matric School | 75%
 
 **IIIT Bangalore**
 
-Specialization: Business Intelligence and Data Analytics.
+**Specialization:** Business Intelligence and Data Analytics
 
 Coursework includes:
+
 - Python for Data Science
 - Introduction to Machine Learning
 - Advanced Databases and Big Data Analytics
 
 ---
+
+<!-- ===================================================== -->
+<!--                 INTERNSHIP EXPERIENCE                 -->
+<!-- ===================================================== -->
 
 ## 💼 Internship Experience
 
@@ -197,10 +289,14 @@ Coursework includes:
 
 - Developed responsive web pages using HTML, CSS, and JavaScript.
 - Assisted in implementing front-end features.
-- Tested layouts across different screen sizes.
+- Tested website layouts across different screen sizes.
 - Helped troubleshoot technical issues and improve user experience.
 
 ---
+
+<!-- ===================================================== -->
+<!--                     CURRENT FOCUS                     -->
+<!-- ===================================================== -->
 
 ## 🎯 Current Focus
 
@@ -208,32 +304,32 @@ Coursework includes:
 - Improving analytical and statistical reasoning
 - Exploring machine learning algorithms
 - Developing practical data analysis projects
-- Turning analytical findings into meaningful insights
+- Learning techniques for data-driven problem-solving
 
 ---
 
 <!-- ===================================================== -->
-<!--                    GITHUB ANALYTICS                  -->
+<!--                    GITHUB ANALYTICS                   -->
 <!-- ===================================================== -->
 
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=DharineeshR&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=DharineeshR&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DharineeshR&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DharineeshR&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
 
 <br/><br/>
 
-<img width="90%" src="https://streak-stats.demolab.com?user=DharineeshR&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+<img width="90%" src="https://streak-stats.demolab.com?user=DharineeshR&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
 
 </div>
 
 ---
 
 <!-- ===================================================== -->
-<!--                     CONTACT ME                        -->
+<!--                       CONTACT                         -->
 <!-- ===================================================== -->
 
 ## 🤝 Let's Connect
@@ -241,25 +337,25 @@ Coursework includes:
 <div align="center">
 
 <a href="mailto:dharineesh36abi@gmail.com?subject=Hello%20Dharineesh">
-  <img src="https://img.shields.io/badge/Email%20Me-dharineesh36abi%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Send email"/>
+  <img src="https://img.shields.io/badge/Email%20Me-dharineesh36abi%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Dharineesh"/>
 </a>
 
 <br/><br/>
 
 <a href="https://www.linkedin.com/in/dharineesh-ramalingam-405646317/">
-  <img src="https://img.shields.io/badge/LinkedIn-Dharineesh%20Ramalingam-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Dharineesh%20Ramalingam-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/>
 </a>
 
 <br/><br/>
 
 <a href="https://github.com/DharineeshR">
-  <img src="https://img.shields.io/badge/GitHub-DharineeshR-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/>
+  <img src="https://img.shields.io/badge/GitHub-DharineeshR-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
 </a>
 
 <br/><br/>
 
 <a href="https://github.com/DharineeshR/DharineeshR/blob/main/Dharineesh_R_Resume.pdf">
-  <img src="https://img.shields.io/badge/📄%20VIEW%20RESUME-OPEN%20PDF-DC2626?style=for-the-badge" alt="Open resume PDF"/>
+  <img src="https://img.shields.io/badge/📄%20VIEW%20MY%20RESUME-OPEN%20PDF-DC2626?style=for-the-badge" alt="View My Resume"/>
 </a>
 
 <br/><br/>
