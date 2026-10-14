@@ -306,28 +306,6 @@ Coursework includes:
 - Developing practical data analysis projects
 - Learning techniques for data-driven problem-solving
 
----
-
-<!-- ===================================================== -->
-<!--                    GITHUB ANALYTICS                   -->
-<!-- ===================================================== -->
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=DharineeshR&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DharineeshR&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
-
-<br/><br/>
-
-<img width="90%" src="https://streak-stats.demolab.com?user=DharineeshR&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
-
-</div>
-
----
-
 <!-- ===================================================== -->
 <!--                       CONTACT                         -->
 <!-- ===================================================== -->
